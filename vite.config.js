@@ -46,3 +46,13 @@ export default defineConfig(({ command }) => {
     ],
   };
 });
+// Добавка
+// vite.config.js
+// import { defineConfig } from 'vite';
+
+// export default defineConfig({
+//   base: '/goit-js-hw-09/',
+// });
+// This configuration sets the base path for the project to '/goit-js-hw-09/',
+// which is useful if you are deploying the project to a subdirectory on a web server.
+// Make sure to adjust the base path according to your deployment setup.
